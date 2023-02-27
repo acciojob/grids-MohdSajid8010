@@ -1,24 +1,24 @@
 
 /* Your CSS Code here. */
-.a1{
+.r1c1{
 	background-color:#008081;
 }
-.a2{
+.r1c2{
 	background-color:#d7bfd7;
 }
 .brwn{
 	background-color:#211919;
 }
-.a3{
+.r2c1{
 	background-color:#fe6347;
 }
-.a4{
+.r2c2{
 	background-color:#3fe0d0;
 }
-.a5{
+.r3c1{
 	background-color:#ee82ef;
 }
-.a6{
+.r3c2{
 	background-color:#9acd32;
 }
 .row div{
@@ -31,4 +31,8 @@
 	background-color:#ffbac0;
 /* 	height:00px; */
 	border:6px solid #05ff00;
+	padding:5px ;
+}
+.my-row{
+	padding:5px;
 }
